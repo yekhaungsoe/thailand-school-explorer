@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Windows metadata
+*:Zone.Identifier
+
+# Dependencies
+node_modules/
+.venv/
+
+# Build output
+dist/
