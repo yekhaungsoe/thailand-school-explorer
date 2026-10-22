@@ -21,7 +21,7 @@ A web programming project built with **Vue.js**, **FastAPI**, and **Leaflet**. I
 ## Project Structure
 
 ```text
-thailand-facility-explorer/
+thailand-school-explorer/
 ├── backend/
 │   ├── main.py
 │   └── requirements.txt
